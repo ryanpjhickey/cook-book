@@ -27,7 +27,7 @@ https://drive.google.com/file/d/1sX7-gA3r7q_B_xAn6oFVdgiK55bFzn05/view
 
 ## Description
 
-OnlyCooks is a blogging site that helps to connect people who are interested in cooking, creating, and sharing recipes! Come dicuss anything with your fellow chefs about any types of cuisine, anytime, any place, for any reason!
+OnlyCooks is a blogging site that helps to connect people who are interested in cooking, creating, and sharing recipes! Come discuss anything with your fellow chefs about any types of cuisine, anytime, any place, for any reason!
 
 ---
 
